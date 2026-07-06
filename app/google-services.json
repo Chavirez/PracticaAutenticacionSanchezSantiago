@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741779227494",
+    "project_id": "ejemplologin-b142e",
+    "storage_bucket": "ejemplologin-b142e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741779227494:android:be6faaa812fe0e02eb7ea7",
+        "android_client_info": {
+          "package_name": "santiago.sanchez.practicaautenticacionsanchezsantiago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFAe3lxlc1piStT8LkorzxiV8e3Erd2rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
